@@ -15,6 +15,11 @@ javascript
 php
 
 
+האתר מריץ iframe ומרנדר pdf
+
+ה-captcha הולך לפי זמן של מערכת הפעלה
+
+
 #### windows privilege escalation if we have a webshell with SeImpersonate / SeAssignPrimaryToken privs
 ##### SeImpersonate / SeAssignPrimaryToken
 
